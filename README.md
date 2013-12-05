@@ -7,8 +7,6 @@ This is a quick little ask-me-anything type of repository.
 It's a blatant rip-off of [holman/feedback](https://github.com/holman/feedback).
 But good ideas are meant to be spread.
 
-#### Info
-
 I like to write about software, open source, GitHub, .NET, and other random
 topics at [Haacked.com](http://haacked.com/). If you have a comment on a
 specific blog post, please comment over there. If you have a question about
