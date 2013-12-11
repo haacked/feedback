@@ -1,5 +1,7 @@
 # haacked/feedback
 
+#### **If you are having trouble with dead links to my blog posts, take a look at [my archive](http://haacked.com/archive/ "Haacked Archive @ http://haacked.com/archive/"); you should be able to find the post you're looking for.**
+
 This is a quick little ask-me-anything type of repository.
 
 It's a blatant rip-off of [holman/feedback](https://github.com/holman/feedback).
